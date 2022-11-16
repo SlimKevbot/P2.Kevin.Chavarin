@@ -17,7 +17,7 @@
 - The rested amount is the remaining energy of the user based on how much time is left in a 16 hour day.
 - The 16 hour day is derived from sleeping for 8 hours a day and being awake for the remainder. 
 
-![My Sketch](https://github.com/SlimKevbot/P2_Kevin_Chavarin/mysketch.jpg)
+![My Sketch](https://github.com/SlimKevbot/P2.Kevin.Chavarin/P2_Kevin_Chavarin/mysketch.jpg)
 
 ![My Gif]()
 
