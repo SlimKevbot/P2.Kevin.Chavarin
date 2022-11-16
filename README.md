@@ -18,6 +18,7 @@
 - The 16 hour day is derived from sleeping for 8 hours a day and being awake for the remainder. 
 
 ![My Sketch](https://github.com/SlimKevbot/P2.Kevin.Chavarin/blob/main/P2_Kevin_Chavarin/mysketch.jpg)
+![My_Img](https://github.com/SlimKevbot/P2.Kevin.Chavarin/blob/main/P2_Kevin_Chavarin/image.png)
 
 ![My Gif]()
 
